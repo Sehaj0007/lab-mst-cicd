@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-lab",
+  "version": "1.0.0",
+  "description": "GitHub Actions Node workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test successful\""
+  }
+}
